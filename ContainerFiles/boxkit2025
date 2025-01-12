@@ -6,9 +6,9 @@ LABEL com.github.containers.toolbox="true" \
       maintainer="Sebasstian Schmeier"
 
 # Copy the setup scripts and package list
-COPY ../scripts/boxkit.sh /
+COPY ../scripts/boxkit2025.sh /
 COPY ../scripts/distrobox-shims.sh /
-COPY ../packages/boxkit.packages /
+COPY ../packages/boxkit2025.packages /
 
 # Run the setup scripts
 RUN chmod +x boxkit2025.sh distrobox-shims.sh && /boxkit2025.sh
