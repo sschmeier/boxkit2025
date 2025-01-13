@@ -6,10 +6,8 @@ bash-completion
 bottom
 btop
 bzip2
-cheat
 chezmoi
 clipboard
-cookiecutter
 cosign
 curl
 direnv
@@ -18,7 +16,6 @@ fzf
 git
 github-cli
 glab
-glow
 gum
 htop
 iotop
@@ -34,7 +31,6 @@ python3
 ripgrep
 rsync
 sops
-ssh-to-age
 shellcheck
 shfmt
 starship
