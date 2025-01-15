@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.5.0](https://github.com/sschmeier/boxkit2025/compare/v1.4.0...v1.5.0) (2025-01-15)
+
+
+### Features
+
+* **boxkit2052:** updates ([e3d87e7](https://github.com/sschmeier/boxkit2025/commit/e3d87e7faa9a9f8aae72b0ac805bda8c3a3ed821))
+* **cosign:** added new cosign.pub key ([812f29e](https://github.com/sschmeier/boxkit2025/commit/812f29e61599b4340b05e069230926ae1ef7a530))
+
+
+### Bug Fixes
+
+* **boxkit:** fix naming of script in container file ([1ff106f](https://github.com/sschmeier/boxkit2025/commit/1ff106f260a0be71e6f5ca9ead6af0715712c055))
+* **cosign:** enabled the cosign part in the action ([e5d994f](https://github.com/sschmeier/boxkit2025/commit/e5d994fb9c13412a3f60f562942e03acd4e289f5))
+* **packages:** removed packages that cannot be found ([5dfc7c8](https://github.com/sschmeier/boxkit2025/commit/5dfc7c8634bbeabf5a71617cc6914e13d325558b))
+* **release:** reverted to remove the permission in yaml ([010238d](https://github.com/sschmeier/boxkit2025/commit/010238d141ff4b4047d040368f49efc1c292a692))
+* **release:** try permissions ([e8e7187](https://github.com/sschmeier/boxkit2025/commit/e8e71876e0772366f984b76d9da5661b66017060))
+
 ## [1.4.0](https://github.com/sschmeier/boxkit2025/compare/v1.3.0...v1.4.0) (2025-01-15)
 
 
