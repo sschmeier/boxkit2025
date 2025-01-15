@@ -3,7 +3,9 @@ on:
     branches:
       - main
 name: release-please
+
 jobs:
+  permissions: write-all
   release-please:
     runs-on: ubuntu-latest
     steps:
