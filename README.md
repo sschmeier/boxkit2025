@@ -90,13 +90,13 @@ We use the default boxkit image as an example to show you how to create a distro
 
 If you use distrobox:
 
-    distrobox create -i ghcr.io/ublue-os/boxkit -n boxkit
-    distrobox enter boxkit
+    distrobox create -i ghcr.io/sschmeier/boxkit2025 -n boxkit2025
+    distrobox enter boxkit2025
     
 If you use toolbox:
 
-    toolbox create -i ghcr.io/ublue-os/boxkit -c boxkit
-    toolbox enter boxkit
+    toolbox create -i ghcr.io/sschmeier/boxkit2025 -c boxkit2025
+    toolbox enter boxkit2025
 
 **NOTE:**
 - You can use `chezmoi` to pull down your dotfiles and set up git sync.
